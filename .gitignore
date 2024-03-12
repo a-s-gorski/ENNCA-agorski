@@ -1,0 +1,4 @@
+.venv/
+cityscapes_data/
+02_processed/
+notebooks/lightning_logs/
