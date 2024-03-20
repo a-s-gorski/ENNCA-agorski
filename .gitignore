@@ -2,3 +2,9 @@
 cityscapes_data/
 02_processed/
 notebooks/lightning_logs/
+slides/
+data/
+FFNet/
+models/
+notebooks/.ipynb_checkpoints
+notebooks/seg_data/
