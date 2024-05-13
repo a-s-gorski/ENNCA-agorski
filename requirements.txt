@@ -11,4 +11,8 @@ qai-hub-models==0.3.2
 lightning==2.2.1
 tensorboard==2.16.2
 seaborn==0.13.2
-ipywidgets
+ipywidgets==8.1.2
+librosa==0.10.1
+soundfile==0.12.1
+torchmetrics
+gdown
